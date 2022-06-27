@@ -38,10 +38,10 @@ function UserOrders() {
                 <thead>
                     <tr>
                         <th>Product ID </th>
-                       
+                        <th>Status</th>
                         <th>Date</th>
                         <th>Total</th>
-         <th>Status</th>
+        
                     </tr>
                 </thead>
                 <tbody>
