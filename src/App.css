@@ -26,9 +26,11 @@ body {
 }
 .fa-trash{
   color:red;
+  padding: 20px;
 }
 .fa-pencil{
   color:blue;
+  padding: 20px;
 }
 .wrapper form {
   padding: 2.5rem 3rem;
